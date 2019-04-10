@@ -5,7 +5,7 @@ string Filename = @"explorer.exe"
 public class explorer
 class explorer
 {
-	//Windows type OS
+	//Windows type = OS
 	//Windows explorer optimized
 	//Windows explorer performance repaired
 	//Windows explorer optimization repaired
