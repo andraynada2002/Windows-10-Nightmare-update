@@ -1,6 +1,7 @@
 string Filename = @"explorer.exe"
 public class explorer
 class explorer
+debug.explorer();
 {
 	//Windows type = OS
 	//Windows explorer optimized
@@ -12,5 +13,10 @@ class explorer
 	//Windows explorer cybergui
 	//Windows explorer quantum tabs
 	//Windows explorer quantum performance
+	//Filename random directory = @"explorer.exe"
 }
+
+
+
+
 
