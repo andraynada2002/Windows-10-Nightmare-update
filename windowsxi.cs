@@ -14,6 +14,9 @@ private class windowsxi;
 //Windows 11 optimized desktop
 //Windows 11 optimized applications
 //Windows 11 optimized standalone applications
+//Windows 11 optimized CPU
+//Windows 11 optimized GPU
+//Windows 11 optimized RAM
 namespace windowsxi;
 {
 	void windowsxi()
@@ -55,7 +58,48 @@ namespace windowsxi;
 	params windowsxi;
 	public params windowsxi;
 	private params windowsxi;
+	value 2;
+	public value 1;
+	private value 0;
+	abstract windowsxi;
+	public abstract windowsxi;
+	private abstract windowsxi;
+	sealed windowsxi;
+	public sealed windowsxi;
+	private sealed windowsxi;
+	async windows11;
+	public async windows11;
+	private async windowsxi;
+	base windows11;
+	public base windows11;
+	private base windows11;
+	break windows11;
+	public break windows11;
+	private break windows11;
+	static windows11;
+	public static windows11;
+	private static windows11;
+	while windows11;
+	public while windows11;
+	private while windows11;
+	await windows11;
+	public await windows11;
+	private await windows11;
+	var windowsxi;
+	public var windowsxi;
+	private var windowsxi;
+	virtual windowsxi;
+	public virtual windowsxi;
+	private virtual windowsxi;
 }
+
+
+
+
+
+
+
+
 
 
 
