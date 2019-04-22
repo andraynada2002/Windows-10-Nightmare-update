@@ -36,6 +36,12 @@ private class windowsxi;
 //Windows 11 Ethernet registry optimized
 //Windows 11 core registry optimized
 //Windows 11 shell registry optimized
+//Windows 11 Google Chrome registry optimized
+//Windows 11 Google Chrome optimized
+//Windows 11 applications registry optimized
+//Windows 11 bios registry optimized
+//Windows 11 drivers registry optimized
+//Windows 11 display driver registry optimized
 namespace windowsxi;
 {
 	void windowsxi()
@@ -120,6 +126,7 @@ namespace windowsxi;
 	public this windows11;
 	private this windows11;
 }
+
 
 
 
