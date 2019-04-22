@@ -42,6 +42,9 @@ private class windowsxi;
 //Windows 11 bios registry optimized
 //Windows 11 drivers registry optimized
 //Windows 11 display driver registry optimized
+//Windows 11 boot registry optimized
+//Windows 11 reboot registery optimized
+//Windows 11 Turn Off registery optimized
 namespace windowsxi;
 {
 	void windowsxi()
@@ -126,6 +129,7 @@ namespace windowsxi;
 	public this windows11;
 	private this windows11;
 }
+
 
 
 
