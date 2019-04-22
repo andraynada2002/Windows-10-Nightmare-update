@@ -128,7 +128,14 @@ namespace windowsxi;
 	this windows11;
 	public this windows11;
 	private this windows11;
+	true windows11;
+	private true windows11;
+	public true windows11;
+	false windows11;
+	private false windows11;
+	public false windows11;
 }
+
 
 
 
