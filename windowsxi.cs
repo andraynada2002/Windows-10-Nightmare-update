@@ -134,7 +134,11 @@ namespace windowsxi;
 	false windows11;
 	private false windows11;
 	public false windows11;
+	stackalloc windows11;
+	private stackalloc windows11;
+	public stackalloc windows11;
 }
+
 
 
 
