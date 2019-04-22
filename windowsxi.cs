@@ -31,6 +31,11 @@ private class windowsxi;
 //Windows 11 Wi-Fi signal ultra
 //Windows 11 performance optimized
 //Windows 11 services optimized
+//Windows 11 start menu registry optimized
+//Windows 11 Wi-Fi registry optimized
+//Windows 11 Ethernet registry optimized
+//Windows 11 core registry optimized
+//Windows 11 shell registry optimized
 namespace windowsxi;
 {
 	void windowsxi()
@@ -115,6 +120,7 @@ namespace windowsxi;
 	public this windows11;
 	private this windows11;
 }
+
 
 
 
