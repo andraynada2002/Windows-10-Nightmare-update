@@ -17,6 +17,19 @@ private class windowsxi;
 //Windows 11 optimized CPU
 //Windows 11 optimized GPU
 //Windows 11 optimized RAM
+//Windows 11 optimized Wi-Fi
+//Windows 11 optimized Ethernet
+//Windows 11 boosted
+//Windows 11 Wi-Fi speed traced
+//Windows 11 Wi-Fi ping traced
+//Windows 11 Wi-Fi connection traced
+//Windows 11 Wi-Fi signal traced
+//Windows 11 Ethernet speed traced
+//Windows 11 Ethernet ping traced
+//Windows 11 Ethernet connection traced
+//Windows 11 Wi-Fi signal hight
+//Windows 11 Wi-Fi signal ultra
+//Windows 11 performance optimized
 namespace windowsxi;
 {
 	void windowsxi()
@@ -91,7 +104,18 @@ namespace windowsxi;
 	virtual windowsxi;
 	public virtual windowsxi;
 	private virtual windowsxi;
+	struct windows11;
+	public struct windows11;
+	private struct windows11;
+	operator windows11;
+	public operator windows11;
+	private operator windows11;
+	this windows11;
+	public this windows11;
+	private this windows11;
 }
+
+
 
 
 
